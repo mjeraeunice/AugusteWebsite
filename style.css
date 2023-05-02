@@ -1,0 +1,54 @@
+*{ padding: 0px;margin: 0px;box-sizing: border-box;font-family: 'Times New Roman', Times, serif;
+}
+.nav{ display: flex;justify-content: space-between; margin-top: 10px;margin-left: 40%;}
+nav ul li{list-style: none;display: inline-flex;padding: 9px 35px;color:#252525;}
+#purple img{width: 100%;}
+#week{text-align: center;font-size: medium;color: lightgray;font-weight: 250px;}
+#texts{display: flex;gap: 10%;margin-left: 44%;font-size: 17px}
+#dress{text-decoration-line: underline;}
+#words{display: flex;gap: 6%;margin-left: 9.9%;}
+#dresses{margin-left: 10%;}
+#prices{display: flex;gap: 13%;margin-left: 9.9%;}
+#bt1{text-align: center;}
+#view{padding: 5px 30px;color:white;background-color:rgba(242, 88, 114, 0.9);}
+.ending{
+    margin: 10px;
+    display: flex;
+    background-color:antiquewhite;
+}
+.shop{
+    margin-left: 6%;
+}
+.types{
+    margin-left: 6%;
+}
+.about{
+    margin-left: 6%;
+}
+#sub{
+    margin-top: 30px;
+    width: 60%;
+    height: 40px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+#email{
+    margin-top: 20px;
+    width: 70%;
+    height: 40px;
+    border-radius: 8px;
+}
+.icons{
+    display: flex;
+    gap: 15.2px;
+    margin-top: 20px;
+}
+.payment{
+    display: flex;
+    gap: 10px;
+    margin-left: 17%;
+    margin-top: 15px;
+}
+.shop{
+    margin-left: 6%;
+}
